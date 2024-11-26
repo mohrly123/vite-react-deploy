@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
 function Seite2(){
+    console.log("Seite2 component rendered");
     return(
         <>
             <p>Das ist Seite2</p>

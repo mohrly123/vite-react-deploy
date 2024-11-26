@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
 function Main(){
+    console.log("Main component rendered");
     return(
         <>
             <p>Das ist die Startseite</p>
