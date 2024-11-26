@@ -6,7 +6,7 @@ function Main(){
         <>
             <p>Das ist die Startseite</p>
             <Link to="/page2">
-                <button type="button">Zur Seite 2</button>
+                <button type="button">Zur Seite 324q42</button>
             </Link>
         </>
     );
